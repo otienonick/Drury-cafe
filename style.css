@@ -1,0 +1,11 @@
+.pair{
+    text-align: center;
+    font-weight: 900;
+}
+.head{
+    font-size: large;
+    font-weight: 900;
+    background-color: yellow;font-style: italic;
+    text-align: center;
+    width: 300px;
+}
